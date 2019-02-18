@@ -1,0 +1,24 @@
+iskeyword
+ans =
+  20¡Á1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> Êý×é
+    'break'
+    'case'
+    'catch'
+    'classdef'
+    'continue'
+    'else'
+    'elseif'
+    'end'
+    'for'
+    'function'
+    'global'
+    'if'
+    'otherwise'
+    'parfor'
+    'persistent'
+    'return'
+    'spmd'
+    'switch'
+    'try'
+    'while'
+diary off
